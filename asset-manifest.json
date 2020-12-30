@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3d579744.chunk.css",
+    "main.js": "/static/js/main.c76f9e1e.chunk.js",
+    "main.js.map": "/static/js/main.c76f9e1e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.45b83552.js",
+    "runtime-main.js.map": "/static/js/runtime-main.45b83552.js.map",
+    "static/js/2.e1c9f0af.chunk.js": "/static/js/2.e1c9f0af.chunk.js",
+    "static/js/2.e1c9f0af.chunk.js.map": "/static/js/2.e1c9f0af.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.3d579744.chunk.css.map": "/static/css/main.3d579744.chunk.css.map",
+    "static/js/2.e1c9f0af.chunk.js.LICENSE.txt": "/static/js/2.e1c9f0af.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/8d6db2b6a2aeebb41b20ab812c2ce0c8.b8a5e716.jpg",
+    "static/media/padlock-closed.71c1cf75.svg": "/static/media/padlock-closed.71c1cf75.svg",
+    "static/media/padlock-open.e51b430d.svg": "/static/media/padlock-open.e51b430d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45b83552.js",
+    "static/js/2.e1c9f0af.chunk.js",
+    "static/css/main.3d579744.chunk.css",
+    "static/js/main.c76f9e1e.chunk.js"
+  ]
+}
